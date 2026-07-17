@@ -1,4 +1,3 @@
-# personal-writing-website
 # Documented
 Documented, a place where ideas can live.
 A personal writing website with a Notion-like editor. Only you can sign in and publish; visitors read what you choose to share.
